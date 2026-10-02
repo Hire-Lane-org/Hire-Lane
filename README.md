@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+# HireLane
+
+## 🚀 Live Demo
+
+[Open HireLane](https://hire-lane-1s7v.vercel.app)
 # HireLane — Track. Prepare. Get Hired.
 
 > A modern, pixel-perfect job application and interview tracker built with Next.js (App Router), TypeScript, Tailwind CSS, Supabase PostgreSQL & Auth, and Resend for real transactional email reminders.
