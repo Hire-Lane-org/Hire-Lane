@@ -10,6 +10,19 @@
 
 ---
 
+## Contributors
+
+This project was collaboratively designed and developed by:
+
+| Contributor | Role | Responsibilities |
+
+| [Keerthi Thummalapalli](https://github.com/keerthithummalapalli) | Frontend & UI/UX | Product ideation, UI/UX design, Figma designs, frontend development, user flows, responsive interface implementation, and frontend integration |
+| [Neha Tirumalaraju](https://github.com/nehatirumalaraju) | Backend & Integration | Backend development, database design, Supabase integration, authentication, API/service integration, data management, and application integration |
+
+### Collaboration
+
+The project was developed collaboratively, with responsibilities divided across product design, frontend development, backend engineering, database integration, and deployment.
+
 ## 🌟 Key Features
 
 1. **Authentication Hub:**
